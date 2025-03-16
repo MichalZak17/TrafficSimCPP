@@ -1,0 +1,6 @@
+# Basic configuration for the simulator
+intersections = 3
+vehicles_per_step = 5
+max_simulation_steps = 100
+traffic_light_green_time = 3
+traffic_light_red_time = 2

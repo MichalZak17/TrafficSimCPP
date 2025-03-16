@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/traffic_sim.dir/src/RandomGen.cpp.o CMakeFiles/traffic_sim.dir/src/TrafficSim.cpp.o CMakeFiles/traffic_sim.dir/src/main.cpp.o  -o traffic_sim 

@@ -1,0 +1,602 @@
+[Initialize] Loaded config. Created intersections.
+[Step 1] Truck spawned at intersection 2.
+[Step 1] Car spawned at intersection 3.
+[Step 1] Car spawned at intersection 2.
+[Step 1] Truck spawned at intersection 2.
+[Step 1] Truck spawned at intersection 1.
+[Step 1] Updated intersections.
+[Step 2] Truck spawned at intersection 3.
+[Step 2] Car spawned at intersection 3.
+[Step 2] Car spawned at intersection 2.
+[Step 2] Truck spawned at intersection 1.
+[Step 2] Car spawned at intersection 2.
+[Step 2] Updated intersections.
+[Step 3] Car spawned at intersection 1.
+[Step 3] Car spawned at intersection 2.
+[Step 3] Car spawned at intersection 2.
+[Step 3] Car spawned at intersection 1.
+[Step 3] Truck spawned at intersection 1.
+[Step 3] Updated intersections.
+[Step 4] Truck spawned at intersection 1.
+[Step 4] Truck spawned at intersection 2.
+[Step 4] Truck spawned at intersection 3.
+[Step 4] Truck spawned at intersection 3.
+[Step 4] Truck spawned at intersection 2.
+[Step 4] Updated intersections.
+[Step 5] Truck spawned at intersection 2.
+[Step 5] Car spawned at intersection 3.
+[Step 5] Car spawned at intersection 3.
+[Step 5] Car spawned at intersection 1.
+[Step 5] Car spawned at intersection 2.
+[Step 5] Updated intersections.
+[Step 6] Car spawned at intersection 2.
+[Step 6] Car spawned at intersection 1.
+[Step 6] Car spawned at intersection 1.
+[Step 6] Car spawned at intersection 1.
+[Step 6] Car spawned at intersection 3.
+[Step 6] Updated intersections.
+[Step 7] Truck spawned at intersection 3.
+[Step 7] Car spawned at intersection 2.
+[Step 7] Car spawned at intersection 2.
+[Step 7] Truck spawned at intersection 1.
+[Step 7] Truck spawned at intersection 3.
+[Step 7] Updated intersections.
+[Step 8] Truck spawned at intersection 2.
+[Step 8] Truck spawned at intersection 2.
+[Step 8] Truck spawned at intersection 2.
+[Step 8] Car spawned at intersection 1.
+[Step 8] Car spawned at intersection 1.
+[Step 8] Updated intersections.
+[Step 9] Car spawned at intersection 1.
+[Step 9] Truck spawned at intersection 2.
+[Step 9] Car spawned at intersection 1.
+[Step 9] Car spawned at intersection 2.
+[Step 9] Truck spawned at intersection 2.
+[Step 9] Updated intersections.
+[Step 10] Car spawned at intersection 1.
+[Step 10] Car spawned at intersection 3.
+[Step 10] Car spawned at intersection 2.
+[Step 10] Car spawned at intersection 3.
+[Step 10] Car spawned at intersection 1.
+[Step 10] Updated intersections.
+[Step 11] Car spawned at intersection 1.
+[Step 11] Car spawned at intersection 3.
+[Step 11] Car spawned at intersection 3.
+[Step 11] Car spawned at intersection 2.
+[Step 11] Truck spawned at intersection 1.
+[Step 11] Updated intersections.
+[Step 12] Truck spawned at intersection 3.
+[Step 12] Truck spawned at intersection 2.
+[Step 12] Car spawned at intersection 3.
+[Step 12] Car spawned at intersection 2.
+[Step 12] Car spawned at intersection 2.
+[Step 12] Updated intersections.
+[Step 13] Car spawned at intersection 2.
+[Step 13] Car spawned at intersection 3.
+[Step 13] Truck spawned at intersection 3.
+[Step 13] Car spawned at intersection 3.
+[Step 13] Truck spawned at intersection 1.
+[Step 13] Updated intersections.
+[Step 14] Car spawned at intersection 1.
+[Step 14] Truck spawned at intersection 1.
+[Step 14] Car spawned at intersection 3.
+[Step 14] Car spawned at intersection 3.
+[Step 14] Truck spawned at intersection 3.
+[Step 14] Updated intersections.
+[Step 15] Truck spawned at intersection 3.
+[Step 15] Truck spawned at intersection 1.
+[Step 15] Truck spawned at intersection 1.
+[Step 15] Truck spawned at intersection 2.
+[Step 15] Truck spawned at intersection 2.
+[Step 15] Updated intersections.
+[Step 16] Car spawned at intersection 1.
+[Step 16] Truck spawned at intersection 1.
+[Step 16] Truck spawned at intersection 1.
+[Step 16] Truck spawned at intersection 3.
+[Step 16] Car spawned at intersection 3.
+[Step 16] Updated intersections.
+[Step 17] Car spawned at intersection 2.
+[Step 17] Car spawned at intersection 3.
+[Step 17] Car spawned at intersection 2.
+[Step 17] Truck spawned at intersection 3.
+[Step 17] Truck spawned at intersection 1.
+[Step 17] Updated intersections.
+[Step 18] Truck spawned at intersection 3.
+[Step 18] Car spawned at intersection 2.
+[Step 18] Car spawned at intersection 2.
+[Step 18] Car spawned at intersection 3.
+[Step 18] Car spawned at intersection 1.
+[Step 18] Updated intersections.
+[Step 19] Truck spawned at intersection 2.
+[Step 19] Truck spawned at intersection 3.
+[Step 19] Truck spawned at intersection 2.
+[Step 19] Car spawned at intersection 1.
+[Step 19] Truck spawned at intersection 3.
+[Step 19] Updated intersections.
+[Step 20] Car spawned at intersection 1.
+[Step 20] Truck spawned at intersection 2.
+[Step 20] Car spawned at intersection 1.
+[Step 20] Car spawned at intersection 2.
+[Step 20] Car spawned at intersection 1.
+[Step 20] Updated intersections.
+[Step 21] Truck spawned at intersection 3.
+[Step 21] Car spawned at intersection 3.
+[Step 21] Car spawned at intersection 1.
+[Step 21] Car spawned at intersection 1.
+[Step 21] Truck spawned at intersection 3.
+[Step 21] Updated intersections.
+[Step 22] Car spawned at intersection 1.
+[Step 22] Car spawned at intersection 1.
+[Step 22] Car spawned at intersection 1.
+[Step 22] Car spawned at intersection 3.
+[Step 22] Car spawned at intersection 3.
+[Step 22] Updated intersections.
+[Step 23] Truck spawned at intersection 2.
+[Step 23] Car spawned at intersection 2.
+[Step 23] Car spawned at intersection 2.
+[Step 23] Truck spawned at intersection 3.
+[Step 23] Car spawned at intersection 3.
+[Step 23] Updated intersections.
+[Step 24] Car spawned at intersection 3.
+[Step 24] Truck spawned at intersection 3.
+[Step 24] Truck spawned at intersection 1.
+[Step 24] Car spawned at intersection 2.
+[Step 24] Car spawned at intersection 3.
+[Step 24] Updated intersections.
+[Step 25] Car spawned at intersection 2.
+[Step 25] Car spawned at intersection 2.
+[Step 25] Truck spawned at intersection 2.
+[Step 25] Car spawned at intersection 1.
+[Step 25] Truck spawned at intersection 3.
+[Step 25] Updated intersections.
+[Step 26] Car spawned at intersection 2.
+[Step 26] Car spawned at intersection 1.
+[Step 26] Car spawned at intersection 2.
+[Step 26] Car spawned at intersection 2.
+[Step 26] Truck spawned at intersection 2.
+[Step 26] Updated intersections.
+[Step 27] Car spawned at intersection 1.
+[Step 27] Truck spawned at intersection 1.
+[Step 27] Truck spawned at intersection 2.
+[Step 27] Car spawned at intersection 1.
+[Step 27] Car spawned at intersection 1.
+[Step 27] Updated intersections.
+[Step 28] Car spawned at intersection 3.
+[Step 28] Car spawned at intersection 3.
+[Step 28] Car spawned at intersection 3.
+[Step 28] Car spawned at intersection 1.
+[Step 28] Truck spawned at intersection 3.
+[Step 28] Updated intersections.
+[Step 29] Truck spawned at intersection 3.
+[Step 29] Truck spawned at intersection 1.
+[Step 29] Car spawned at intersection 1.
+[Step 29] Truck spawned at intersection 2.
+[Step 29] Car spawned at intersection 3.
+[Step 29] Updated intersections.
+[Step 30] Truck spawned at intersection 1.
+[Step 30] Car spawned at intersection 1.
+[Step 30] Truck spawned at intersection 1.
+[Step 30] Truck spawned at intersection 3.
+[Step 30] Car spawned at intersection 3.
+[Step 30] Updated intersections.
+[Step 31] Truck spawned at intersection 3.
+[Step 31] Truck spawned at intersection 3.
+[Step 31] Car spawned at intersection 1.
+[Step 31] Truck spawned at intersection 2.
+[Step 31] Truck spawned at intersection 3.
+[Step 31] Updated intersections.
+[Step 32] Car spawned at intersection 3.
+[Step 32] Car spawned at intersection 2.
+[Step 32] Car spawned at intersection 2.
+[Step 32] Car spawned at intersection 3.
+[Step 32] Car spawned at intersection 1.
+[Step 32] Updated intersections.
+[Step 33] Car spawned at intersection 3.
+[Step 33] Car spawned at intersection 1.
+[Step 33] Car spawned at intersection 1.
+[Step 33] Car spawned at intersection 1.
+[Step 33] Truck spawned at intersection 2.
+[Step 33] Updated intersections.
+[Step 34] Car spawned at intersection 3.
+[Step 34] Truck spawned at intersection 2.
+[Step 34] Car spawned at intersection 2.
+[Step 34] Car spawned at intersection 3.
+[Step 34] Car spawned at intersection 1.
+[Step 34] Updated intersections.
+[Step 35] Truck spawned at intersection 2.
+[Step 35] Truck spawned at intersection 3.
+[Step 35] Car spawned at intersection 1.
+[Step 35] Car spawned at intersection 3.
+[Step 35] Truck spawned at intersection 2.
+[Step 35] Updated intersections.
+[Step 36] Truck spawned at intersection 2.
+[Step 36] Car spawned at intersection 2.
+[Step 36] Truck spawned at intersection 1.
+[Step 36] Car spawned at intersection 1.
+[Step 36] Car spawned at intersection 2.
+[Step 36] Updated intersections.
+[Step 37] Truck spawned at intersection 3.
+[Step 37] Car spawned at intersection 2.
+[Step 37] Car spawned at intersection 3.
+[Step 37] Car spawned at intersection 2.
+[Step 37] Car spawned at intersection 1.
+[Step 37] Updated intersections.
+[Step 38] Truck spawned at intersection 3.
+[Step 38] Car spawned at intersection 1.
+[Step 38] Truck spawned at intersection 1.
+[Step 38] Car spawned at intersection 1.
+[Step 38] Truck spawned at intersection 2.
+[Step 38] Updated intersections.
+[Step 39] Car spawned at intersection 2.
+[Step 39] Car spawned at intersection 2.
+[Step 39] Truck spawned at intersection 2.
+[Step 39] Car spawned at intersection 2.
+[Step 39] Truck spawned at intersection 2.
+[Step 39] Updated intersections.
+[Step 40] Truck spawned at intersection 2.
+[Step 40] Truck spawned at intersection 1.
+[Step 40] Truck spawned at intersection 1.
+[Step 40] Truck spawned at intersection 3.
+[Step 40] Truck spawned at intersection 2.
+[Step 40] Updated intersections.
+[Step 41] Truck spawned at intersection 3.
+[Step 41] Truck spawned at intersection 1.
+[Step 41] Truck spawned at intersection 3.
+[Step 41] Truck spawned at intersection 1.
+[Step 41] Car spawned at intersection 3.
+[Step 41] Updated intersections.
+[Step 42] Car spawned at intersection 2.
+[Step 42] Truck spawned at intersection 3.
+[Step 42] Truck spawned at intersection 1.
+[Step 42] Truck spawned at intersection 3.
+[Step 42] Truck spawned at intersection 1.
+[Step 42] Updated intersections.
+[Step 43] Truck spawned at intersection 3.
+[Step 43] Truck spawned at intersection 1.
+[Step 43] Car spawned at intersection 1.
+[Step 43] Truck spawned at intersection 1.
+[Step 43] Truck spawned at intersection 3.
+[Step 43] Updated intersections.
+[Step 44] Truck spawned at intersection 2.
+[Step 44] Truck spawned at intersection 2.
+[Step 44] Truck spawned at intersection 1.
+[Step 44] Car spawned at intersection 3.
+[Step 44] Truck spawned at intersection 1.
+[Step 44] Updated intersections.
+[Step 45] Truck spawned at intersection 1.
+[Step 45] Car spawned at intersection 2.
+[Step 45] Car spawned at intersection 1.
+[Step 45] Car spawned at intersection 1.
+[Step 45] Car spawned at intersection 3.
+[Step 45] Updated intersections.
+[Step 46] Car spawned at intersection 3.
+[Step 46] Car spawned at intersection 2.
+[Step 46] Car spawned at intersection 2.
+[Step 46] Car spawned at intersection 1.
+[Step 46] Truck spawned at intersection 2.
+[Step 46] Updated intersections.
+[Step 47] Car spawned at intersection 3.
+[Step 47] Car spawned at intersection 3.
+[Step 47] Truck spawned at intersection 2.
+[Step 47] Truck spawned at intersection 2.
+[Step 47] Car spawned at intersection 3.
+[Step 47] Updated intersections.
+[Step 48] Truck spawned at intersection 2.
+[Step 48] Car spawned at intersection 3.
+[Step 48] Truck spawned at intersection 1.
+[Step 48] Truck spawned at intersection 2.
+[Step 48] Truck spawned at intersection 2.
+[Step 48] Updated intersections.
+[Step 49] Truck spawned at intersection 1.
+[Step 49] Car spawned at intersection 2.
+[Step 49] Truck spawned at intersection 1.
+[Step 49] Car spawned at intersection 1.
+[Step 49] Truck spawned at intersection 2.
+[Step 49] Updated intersections.
+[Step 50] Car spawned at intersection 2.
+[Step 50] Car spawned at intersection 3.
+[Step 50] Car spawned at intersection 3.
+[Step 50] Car spawned at intersection 2.
+[Step 50] Truck spawned at intersection 2.
+[Step 50] Updated intersections.
+[Step 51] Car spawned at intersection 1.
+[Step 51] Truck spawned at intersection 3.
+[Step 51] Car spawned at intersection 3.
+[Step 51] Truck spawned at intersection 1.
+[Step 51] Truck spawned at intersection 1.
+[Step 51] Updated intersections.
+[Step 52] Truck spawned at intersection 1.
+[Step 52] Truck spawned at intersection 1.
+[Step 52] Car spawned at intersection 2.
+[Step 52] Truck spawned at intersection 1.
+[Step 52] Truck spawned at intersection 3.
+[Step 52] Updated intersections.
+[Step 53] Truck spawned at intersection 2.
+[Step 53] Truck spawned at intersection 1.
+[Step 53] Truck spawned at intersection 2.
+[Step 53] Car spawned at intersection 1.
+[Step 53] Car spawned at intersection 3.
+[Step 53] Updated intersections.
+[Step 54] Car spawned at intersection 2.
+[Step 54] Car spawned at intersection 1.
+[Step 54] Truck spawned at intersection 3.
+[Step 54] Car spawned at intersection 1.
+[Step 54] Car spawned at intersection 2.
+[Step 54] Updated intersections.
+[Step 55] Car spawned at intersection 1.
+[Step 55] Truck spawned at intersection 1.
+[Step 55] Truck spawned at intersection 2.
+[Step 55] Truck spawned at intersection 3.
+[Step 55] Truck spawned at intersection 2.
+[Step 55] Updated intersections.
+[Step 56] Truck spawned at intersection 2.
+[Step 56] Truck spawned at intersection 1.
+[Step 56] Truck spawned at intersection 3.
+[Step 56] Truck spawned at intersection 1.
+[Step 56] Truck spawned at intersection 2.
+[Step 56] Updated intersections.
+[Step 57] Truck spawned at intersection 2.
+[Step 57] Car spawned at intersection 2.
+[Step 57] Car spawned at intersection 2.
+[Step 57] Truck spawned at intersection 2.
+[Step 57] Car spawned at intersection 3.
+[Step 57] Updated intersections.
+[Step 58] Truck spawned at intersection 3.
+[Step 58] Truck spawned at intersection 2.
+[Step 58] Truck spawned at intersection 2.
+[Step 58] Car spawned at intersection 2.
+[Step 58] Truck spawned at intersection 1.
+[Step 58] Updated intersections.
+[Step 59] Car spawned at intersection 3.
+[Step 59] Truck spawned at intersection 1.
+[Step 59] Car spawned at intersection 3.
+[Step 59] Car spawned at intersection 2.
+[Step 59] Car spawned at intersection 2.
+[Step 59] Updated intersections.
+[Step 60] Truck spawned at intersection 1.
+[Step 60] Car spawned at intersection 3.
+[Step 60] Truck spawned at intersection 2.
+[Step 60] Truck spawned at intersection 1.
+[Step 60] Car spawned at intersection 2.
+[Step 60] Updated intersections.
+[Step 61] Car spawned at intersection 2.
+[Step 61] Truck spawned at intersection 2.
+[Step 61] Truck spawned at intersection 2.
+[Step 61] Truck spawned at intersection 1.
+[Step 61] Car spawned at intersection 3.
+[Step 61] Updated intersections.
+[Step 62] Car spawned at intersection 2.
+[Step 62] Truck spawned at intersection 1.
+[Step 62] Car spawned at intersection 3.
+[Step 62] Truck spawned at intersection 2.
+[Step 62] Car spawned at intersection 1.
+[Step 62] Updated intersections.
+[Step 63] Car spawned at intersection 2.
+[Step 63] Car spawned at intersection 1.
+[Step 63] Truck spawned at intersection 3.
+[Step 63] Truck spawned at intersection 3.
+[Step 63] Car spawned at intersection 1.
+[Step 63] Updated intersections.
+[Step 64] Truck spawned at intersection 1.
+[Step 64] Truck spawned at intersection 3.
+[Step 64] Truck spawned at intersection 3.
+[Step 64] Car spawned at intersection 1.
+[Step 64] Car spawned at intersection 1.
+[Step 64] Updated intersections.
+[Step 65] Truck spawned at intersection 2.
+[Step 65] Truck spawned at intersection 3.
+[Step 65] Truck spawned at intersection 2.
+[Step 65] Car spawned at intersection 1.
+[Step 65] Car spawned at intersection 3.
+[Step 65] Updated intersections.
+[Step 66] Car spawned at intersection 3.
+[Step 66] Truck spawned at intersection 1.
+[Step 66] Car spawned at intersection 2.
+[Step 66] Truck spawned at intersection 2.
+[Step 66] Car spawned at intersection 2.
+[Step 66] Updated intersections.
+[Step 67] Car spawned at intersection 3.
+[Step 67] Car spawned at intersection 1.
+[Step 67] Car spawned at intersection 3.
+[Step 67] Truck spawned at intersection 2.
+[Step 67] Truck spawned at intersection 1.
+[Step 67] Updated intersections.
+[Step 68] Car spawned at intersection 2.
+[Step 68] Truck spawned at intersection 1.
+[Step 68] Truck spawned at intersection 1.
+[Step 68] Truck spawned at intersection 2.
+[Step 68] Car spawned at intersection 2.
+[Step 68] Updated intersections.
+[Step 69] Truck spawned at intersection 3.
+[Step 69] Truck spawned at intersection 3.
+[Step 69] Truck spawned at intersection 1.
+[Step 69] Truck spawned at intersection 2.
+[Step 69] Car spawned at intersection 2.
+[Step 69] Updated intersections.
+[Step 70] Truck spawned at intersection 1.
+[Step 70] Car spawned at intersection 1.
+[Step 70] Car spawned at intersection 3.
+[Step 70] Car spawned at intersection 2.
+[Step 70] Truck spawned at intersection 3.
+[Step 70] Updated intersections.
+[Step 71] Car spawned at intersection 2.
+[Step 71] Truck spawned at intersection 2.
+[Step 71] Truck spawned at intersection 3.
+[Step 71] Truck spawned at intersection 2.
+[Step 71] Car spawned at intersection 3.
+[Step 71] Updated intersections.
+[Step 72] Car spawned at intersection 1.
+[Step 72] Car spawned at intersection 2.
+[Step 72] Car spawned at intersection 3.
+[Step 72] Truck spawned at intersection 1.
+[Step 72] Car spawned at intersection 2.
+[Step 72] Updated intersections.
+[Step 73] Truck spawned at intersection 3.
+[Step 73] Truck spawned at intersection 1.
+[Step 73] Truck spawned at intersection 3.
+[Step 73] Truck spawned at intersection 2.
+[Step 73] Truck spawned at intersection 1.
+[Step 73] Updated intersections.
+[Step 74] Car spawned at intersection 2.
+[Step 74] Truck spawned at intersection 1.
+[Step 74] Car spawned at intersection 3.
+[Step 74] Car spawned at intersection 3.
+[Step 74] Truck spawned at intersection 3.
+[Step 74] Updated intersections.
+[Step 75] Car spawned at intersection 2.
+[Step 75] Car spawned at intersection 3.
+[Step 75] Car spawned at intersection 1.
+[Step 75] Car spawned at intersection 2.
+[Step 75] Truck spawned at intersection 2.
+[Step 75] Updated intersections.
+[Step 76] Car spawned at intersection 1.
+[Step 76] Car spawned at intersection 3.
+[Step 76] Truck spawned at intersection 3.
+[Step 76] Truck spawned at intersection 1.
+[Step 76] Car spawned at intersection 3.
+[Step 76] Updated intersections.
+[Step 77] Car spawned at intersection 2.
+[Step 77] Truck spawned at intersection 2.
+[Step 77] Truck spawned at intersection 3.
+[Step 77] Truck spawned at intersection 2.
+[Step 77] Truck spawned at intersection 1.
+[Step 77] Updated intersections.
+[Step 78] Truck spawned at intersection 2.
+[Step 78] Car spawned at intersection 3.
+[Step 78] Car spawned at intersection 2.
+[Step 78] Truck spawned at intersection 2.
+[Step 78] Car spawned at intersection 1.
+[Step 78] Updated intersections.
+[Step 79] Car spawned at intersection 2.
+[Step 79] Truck spawned at intersection 2.
+[Step 79] Car spawned at intersection 1.
+[Step 79] Truck spawned at intersection 2.
+[Step 79] Truck spawned at intersection 2.
+[Step 79] Updated intersections.
+[Step 80] Car spawned at intersection 2.
+[Step 80] Truck spawned at intersection 3.
+[Step 80] Car spawned at intersection 3.
+[Step 80] Truck spawned at intersection 2.
+[Step 80] Car spawned at intersection 2.
+[Step 80] Updated intersections.
+[Step 81] Car spawned at intersection 3.
+[Step 81] Car spawned at intersection 2.
+[Step 81] Truck spawned at intersection 3.
+[Step 81] Truck spawned at intersection 2.
+[Step 81] Truck spawned at intersection 2.
+[Step 81] Updated intersections.
+[Step 82] Car spawned at intersection 2.
+[Step 82] Car spawned at intersection 3.
+[Step 82] Truck spawned at intersection 2.
+[Step 82] Truck spawned at intersection 1.
+[Step 82] Truck spawned at intersection 2.
+[Step 82] Updated intersections.
+[Step 83] Truck spawned at intersection 3.
+[Step 83] Truck spawned at intersection 1.
+[Step 83] Truck spawned at intersection 1.
+[Step 83] Car spawned at intersection 2.
+[Step 83] Car spawned at intersection 1.
+[Step 83] Updated intersections.
+[Step 84] Car spawned at intersection 3.
+[Step 84] Truck spawned at intersection 3.
+[Step 84] Car spawned at intersection 1.
+[Step 84] Truck spawned at intersection 1.
+[Step 84] Car spawned at intersection 1.
+[Step 84] Updated intersections.
+[Step 85] Car spawned at intersection 1.
+[Step 85] Truck spawned at intersection 3.
+[Step 85] Truck spawned at intersection 2.
+[Step 85] Car spawned at intersection 1.
+[Step 85] Car spawned at intersection 1.
+[Step 85] Updated intersections.
+[Step 86] Truck spawned at intersection 1.
+[Step 86] Truck spawned at intersection 3.
+[Step 86] Truck spawned at intersection 2.
+[Step 86] Truck spawned at intersection 1.
+[Step 86] Car spawned at intersection 3.
+[Step 86] Updated intersections.
+[Step 87] Car spawned at intersection 3.
+[Step 87] Car spawned at intersection 2.
+[Step 87] Truck spawned at intersection 3.
+[Step 87] Truck spawned at intersection 2.
+[Step 87] Car spawned at intersection 1.
+[Step 87] Updated intersections.
+[Step 88] Truck spawned at intersection 1.
+[Step 88] Car spawned at intersection 2.
+[Step 88] Car spawned at intersection 1.
+[Step 88] Truck spawned at intersection 2.
+[Step 88] Truck spawned at intersection 3.
+[Step 88] Updated intersections.
+[Step 89] Car spawned at intersection 3.
+[Step 89] Truck spawned at intersection 1.
+[Step 89] Car spawned at intersection 1.
+[Step 89] Truck spawned at intersection 3.
+[Step 89] Car spawned at intersection 3.
+[Step 89] Updated intersections.
+[Step 90] Truck spawned at intersection 2.
+[Step 90] Truck spawned at intersection 2.
+[Step 90] Car spawned at intersection 2.
+[Step 90] Car spawned at intersection 2.
+[Step 90] Car spawned at intersection 1.
+[Step 90] Updated intersections.
+[Step 91] Truck spawned at intersection 2.
+[Step 91] Truck spawned at intersection 1.
+[Step 91] Truck spawned at intersection 3.
+[Step 91] Truck spawned at intersection 1.
+[Step 91] Truck spawned at intersection 3.
+[Step 91] Updated intersections.
+[Step 92] Car spawned at intersection 2.
+[Step 92] Car spawned at intersection 2.
+[Step 92] Truck spawned at intersection 1.
+[Step 92] Car spawned at intersection 1.
+[Step 92] Truck spawned at intersection 1.
+[Step 92] Updated intersections.
+[Step 93] Truck spawned at intersection 2.
+[Step 93] Truck spawned at intersection 1.
+[Step 93] Car spawned at intersection 1.
+[Step 93] Car spawned at intersection 3.
+[Step 93] Truck spawned at intersection 2.
+[Step 93] Updated intersections.
+[Step 94] Car spawned at intersection 2.
+[Step 94] Car spawned at intersection 3.
+[Step 94] Truck spawned at intersection 1.
+[Step 94] Truck spawned at intersection 2.
+[Step 94] Truck spawned at intersection 3.
+[Step 94] Updated intersections.
+[Step 95] Car spawned at intersection 3.
+[Step 95] Truck spawned at intersection 3.
+[Step 95] Truck spawned at intersection 3.
+[Step 95] Car spawned at intersection 2.
+[Step 95] Truck spawned at intersection 3.
+[Step 95] Updated intersections.
+[Step 96] Truck spawned at intersection 2.
+[Step 96] Truck spawned at intersection 2.
+[Step 96] Truck spawned at intersection 2.
+[Step 96] Car spawned at intersection 2.
+[Step 96] Truck spawned at intersection 1.
+[Step 96] Updated intersections.
+[Step 97] Truck spawned at intersection 3.
+[Step 97] Truck spawned at intersection 3.
+[Step 97] Car spawned at intersection 3.
+[Step 97] Car spawned at intersection 3.
+[Step 97] Car spawned at intersection 3.
+[Step 97] Updated intersections.
+[Step 98] Car spawned at intersection 1.
+[Step 98] Truck spawned at intersection 1.
+[Step 98] Truck spawned at intersection 1.
+[Step 98] Car spawned at intersection 1.
+[Step 98] Truck spawned at intersection 3.
+[Step 98] Updated intersections.
+[Step 99] Car spawned at intersection 1.
+[Step 99] Truck spawned at intersection 2.
+[Step 99] Truck spawned at intersection 3.
+[Step 99] Car spawned at intersection 2.
+[Step 99] Truck spawned at intersection 3.
+[Step 99] Updated intersections.
+[Step 100] Truck spawned at intersection 1.
+[Step 100] Truck spawned at intersection 1.
+[Step 100] Car spawned at intersection 3.
+[Step 100] Truck spawned at intersection 2.
+[Step 100] Truck spawned at intersection 1.
+[Step 100] Updated intersections.
+[Simulation Complete] 100 steps processed.

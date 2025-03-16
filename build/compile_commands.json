@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/workspaces/TrafficSimCPP/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/traffic_sim.dir/src/RandomGen.cpp.o -c /workspaces/TrafficSimCPP/src/RandomGen.cpp",
+  "file": "/workspaces/TrafficSimCPP/src/RandomGen.cpp"
+},
+{
+  "directory": "/workspaces/TrafficSimCPP/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/traffic_sim.dir/src/TrafficSim.cpp.o -c /workspaces/TrafficSimCPP/src/TrafficSim.cpp",
+  "file": "/workspaces/TrafficSimCPP/src/TrafficSim.cpp"
+},
+{
+  "directory": "/workspaces/TrafficSimCPP/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++14 -o CMakeFiles/traffic_sim.dir/src/main.cpp.o -c /workspaces/TrafficSimCPP/src/main.cpp",
+  "file": "/workspaces/TrafficSimCPP/src/main.cpp"
+}
+]

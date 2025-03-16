@@ -1,0 +1,3 @@
+/workspaces/TrafficSimCPP/build/CMakeFiles/rebuild_cache.dir
+/workspaces/TrafficSimCPP/build/CMakeFiles/edit_cache.dir
+/workspaces/TrafficSimCPP/build/CMakeFiles/traffic_sim.dir
