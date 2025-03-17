@@ -1,7 +1,13 @@
 #include <iostream>
 #include "TrafficSim.h"
 
-// Entry point of the TrafficSimCPP application
+/**
+ * @brief Entry point of the TrafficSimCPP application.
+ * 
+ * This function initializes the TrafficSim instance, loads the configuration, and runs the simulation.
+ * 
+ * @return int Returns 0 on successful completion, 1 on error.
+ */
 int main() {
     // Create a TrafficSim instance
     TrafficSim simulator;
@@ -12,6 +18,7 @@ int main() {
         return 1;
     }
 
+    // Run the simulation
     simulator.runSimulation();
 
     std::cout << "[Info] Simulation complete. Check logs/simulation_log.txt for details.\n";

@@ -187,3 +187,290 @@ To compile the TrafficSimCPP project under Windows, follow these detailed steps:
 
 - **Consult CMake Output**:
   - Review the CMake output for any errors or warnings.
+
+## Detailed Documentation
+
+### Class: `Car`
+
+The `Car` class represents a car in the traffic simulation. It is derived from the `LandVehicle` class and has specific attributes and behaviors.
+
+#### Constructor
+```cpp
+Car(int id, double speed);
+```
+- `id`: The unique identifier for the car.
+- `speed`: The speed of the car.
+
+#### Destructor
+```cpp
+~Car();
+```
+
+#### Method: `updateState`
+```cpp
+void updateState() override;
+```
+Updates the state of the car during each simulation step.
+
+### Class: `Intersection`
+
+The `Intersection` class represents a traffic intersection in the simulation. It manages the traffic light and the vehicles waiting at the intersection.
+
+#### Constructor
+```cpp
+Intersection(int id);
+```
+- `id`: The unique identifier for the intersection.
+
+#### Method: `setLightTimes`
+```cpp
+void setLightTimes(int green, int red);
+```
+Sets the traffic light times for the intersection.
+- `green`: The duration of the green light.
+- `red`: The duration of the red light.
+
+#### Method: `addVehicle`
+```cpp
+void addVehicle(std::unique_ptr<Vehicle> v);
+```
+Adds a vehicle to the intersection's waiting queue.
+- `v`: A unique pointer to the vehicle to be added.
+
+#### Method: `update`
+```cpp
+void update();
+```
+Updates the state of the intersection, including the traffic light and the vehicles waiting at the intersection.
+
+#### Method: `getId`
+```cpp
+int getId() const;
+```
+Returns the unique identifier of the intersection.
+
+#### Method: `isGreen`
+```cpp
+bool isGreen() const;
+```
+Checks if the traffic light is green.
+
+#### Method: `getWaitingCount`
+```cpp
+int getWaitingCount() const;
+```
+Returns the number of vehicles waiting at the intersection.
+
+#### Method: `getThroughput`
+```cpp
+int getThroughput() const;
+```
+Returns the total number of vehicles that have passed through the intersection.
+
+#### Method: `getPassedThisStep`
+```cpp
+int getPassedThisStep() const;
+```
+Returns the number of vehicles that passed through the intersection in the current step.
+
+### Class: `LandVehicle`
+
+The `LandVehicle` class represents a land vehicle in the traffic simulation. It is derived from the `Vehicle` class and has specific attributes and behaviors.
+
+#### Constructor
+```cpp
+LandVehicle(int id, double speed, int wheels);
+```
+- `id`: The unique identifier for the land vehicle.
+- `speed`: The speed of the land vehicle.
+- `wheels`: The number of wheels of the land vehicle.
+
+#### Destructor
+```cpp
+virtual ~LandVehicle();
+```
+
+#### Method: `getNumWheels`
+```cpp
+int getNumWheels() const;
+```
+Returns the number of wheels of the land vehicle.
+
+### Class: `RandomGen`
+
+The `RandomGen` class handles random number generation for the traffic simulation. It provides methods to generate random integers and doubles within specified ranges.
+
+#### Constructor
+```cpp
+RandomGen();
+```
+
+#### Destructor
+```cpp
+~RandomGen();
+```
+
+#### Method: `randomInt`
+```cpp
+int randomInt(int minVal, int maxVal);
+```
+Generates a random integer within the specified range.
+- `minVal`: The minimum value of the range (inclusive).
+- `maxVal`: The maximum value of the range (inclusive).
+
+#### Method: `randomDouble`
+```cpp
+double randomDouble(double minVal, double maxVal);
+```
+Generates a random double within the specified range.
+- `minVal`: The minimum value of the range (inclusive).
+- `maxVal`: The maximum value of the range (inclusive).
+
+### Class: `TrafficObject`
+
+The `TrafficObject` class is an abstract base class representing any traffic-related object. It defines a pure virtual method for updating the state of the object during each simulation step.
+
+#### Destructor
+```cpp
+virtual ~TrafficObject();
+```
+
+#### Method: `updateState`
+```cpp
+virtual void updateState() = 0;
+```
+Pure virtual method for updating the state of the object. This method must be implemented by derived classes.
+
+### Class: `TrafficSim`
+
+The `TrafficSim` class manages the traffic simulation. It is responsible for initializing the simulation, loading the configuration, spawning vehicles, updating intersections, and logging the simulation progress.
+
+#### Constructor
+```cpp
+TrafficSim();
+```
+
+#### Destructor
+```cpp
+~TrafficSim();
+```
+
+#### Method: `initialize`
+```cpp
+bool initialize(const std::string &configPath);
+```
+Initializes the simulation with the given configuration file.
+- `configPath`: The path to the configuration file.
+
+#### Method: `runSimulation`
+```cpp
+void runSimulation();
+```
+Runs the traffic simulation.
+
+#### Method: `loadConfig`
+```cpp
+bool loadConfig(const std::string &path);
+```
+Loads the configuration from the specified file.
+- `path`: The path to the configuration file.
+
+#### Method: `logMessage`
+```cpp
+void logMessage(const std::string& message);
+```
+Logs a message to the simulation log file.
+- `message`: The message to be logged.
+
+#### Method: `spawnVehicles`
+```cpp
+void spawnVehicles();
+```
+Spawns vehicles at random intersections.
+
+#### Method: `recordStepData`
+```cpp
+void recordStepData();
+```
+Records the state of the simulation at each step.
+
+#### Method: `generateReport`
+```cpp
+void generateReport(const std::string &filename);
+```
+Generates a final report of the simulation.
+- `filename`: The name of the report file.
+
+### Class: `Truck`
+
+The `Truck` class represents a truck in the traffic simulation. It is derived from the `LandVehicle` class and has specific attributes and behaviors.
+
+#### Constructor
+```cpp
+Truck(int id, double speed);
+```
+- `id`: The unique identifier for the truck.
+- `speed`: The speed of the truck.
+
+#### Destructor
+```cpp
+~Truck();
+```
+
+#### Method: `updateState`
+```cpp
+void updateState() override;
+```
+Updates the state of the truck during each simulation step.
+
+### Class: `Vehicle`
+
+The `Vehicle` class is an abstract base class representing a vehicle in the traffic simulation. It defines common attributes and methods for vehicles, including ID, speed, and state update.
+
+#### Constructor
+```cpp
+Vehicle(int id, double speed);
+```
+- `id`: The unique identifier for the vehicle.
+- `speed`: The speed of the vehicle.
+
+#### Destructor
+```cpp
+virtual ~Vehicle();
+```
+
+#### Copy Constructor
+```cpp
+Vehicle(const Vehicle& other);
+```
+- `other`: The Vehicle object to copy from.
+
+#### Move Constructor
+```cpp
+Vehicle(Vehicle&& other) noexcept;
+```
+- `other`: The Vehicle object to move from.
+
+#### Move Assignment Operator
+```cpp
+Vehicle& operator=(Vehicle&& other) noexcept;
+```
+- `other`: The Vehicle object to move from.
+
+#### Method: `updateState`
+```cpp
+virtual void updateState() override = 0;
+```
+Pure virtual method for updating the state of the vehicle. This method must be implemented by derived classes.
+
+#### Method: `getId`
+```cpp
+int getId() const;
+```
+Returns the unique identifier of the vehicle.
+
+#### Method: `getSpeed`
+```cpp
+double getSpeed() const;
+```
+Returns the speed of the vehicle.
