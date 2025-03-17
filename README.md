@@ -123,41 +123,67 @@ We welcome contributions! To contribute:
 ## 🏆 Acknowledgments
 
 Thanks to the contributors and maintainers who help make TrafficSimCPP a robust learning tool for modern C++ development.
-```
 
----
+## 🌟 Importance and Interesting Aspects of the Project
 
-### Updated Project Requirements for C++14
+The TrafficSimCPP project is important and interesting for several reasons:
 
-1. **Core C++ Concepts:**
-   - Use **function overloading**, **reference parameters**, **member initializer lists**, and **copy constructors**.
-   - Implement aggregation of objects (has-a relationship) and manage object lifetimes with destructors.
-   - Demonstrate the use of **operator overloading** (e.g., `operator<` and `operator==`), as C++14 does not include the spaceship operator.
-   - Utilize **move constructors** and **move assignment operators** to efficiently manage resources.
+1. **Educational Value**:
+   - Demonstrates advanced C++ programming concepts such as inheritance, polymorphism, smart pointers, and STL algorithms.
 
-2. **Inheritance and Polymorphism:**
-   - Build a multi-level inheritance hierarchy:
-     - Abstract base class (`TrafficObject`)
-     - Derived abstract class (`Vehicle`)
-     - Concrete intermediate class (`LandVehicle`)
-     - Further specialized classes (`Car`, `Truck`, `Bus`)
-   - Implement pure virtual functions and override them in derived classes.
+2. **Simulation Focus**:
+   - Emphasizes data processing and simulation logic without relying on a graphical user interface.
 
-3. **STL Containers and Algorithms:**
-   - Employ at least two types of containers: one sequential (e.g., `std::vector`) and one associative (e.g., `std::map`).
-   - Utilize STL algorithms such as `std::sort`, `std::for_each`, `std::remove_if`, and `std::copy`.
+3. **Real-World Application**:
+   - Models real-world traffic scenarios, making it a valuable tool for understanding traffic flow and intersection management.
 
-4. **Random Data Generation:**
-   - Use the C++ `<random>` library for generating random vehicle attributes (arrival times, speeds) and traffic light cycles.
+For more detailed instructions, please refer to the [DETAILED_GUIDE.md](DETAILED_GUIDE.md).
 
-5. **File I/O:**
-   - Read simulation configuration from a file.
-   - Write simulation logs and final statistics to output files.
+## 🖥️ Compiling the Project under Windows
 
-6. **Smart Pointers and Lambdas:**
-   - Manage dynamic memory with `std::unique_ptr` to prevent memory leaks.
-   - Replace manual loops with STL algorithms combined with lambda expressions where possible.
+To compile the TrafficSimCPP project under Windows, follow these detailed steps:
 
-7. **Simulation-Oriented Design:**
-   - Ensure the program's functionality is focused on data processing and simulation, avoiding direct keyboard input.
-   - Maintain a clear separation between simulation logic and data storage.
+1. **Install Prerequisites**:
+   - Install a C++14 compliant compiler (e.g., MSVC 2015+).
+   - Install CMake 3.5+.
+
+2. **Clone the Repository**:
+   ```sh
+   git clone https://github.com/MichalZak17/TrafficSimCPP.git
+   cd TrafficSimCPP
+   ```
+
+3. **Create a Build Directory**:
+   ```sh
+   mkdir build
+   cd build
+   ```
+
+4. **Generate Build Files with CMake**:
+   ```sh
+   cmake ..
+   ```
+
+5. **Build the Project**:
+   ```sh
+   cmake --build .
+   ```
+
+6. **Run the Executable**:
+   ```sh
+   traffic_sim.exe
+   ```
+
+### Troubleshooting Tips
+
+- **Ensure CMake is in your PATH**:
+  - Add the CMake binary directory to your system PATH.
+
+- **Check Compiler Compatibility**:
+  - Ensure your compiler supports C++14.
+
+- **Verify Dependencies**:
+  - Ensure all required libraries and headers are available.
+
+- **Consult CMake Output**:
+  - Review the CMake output for any errors or warnings.
