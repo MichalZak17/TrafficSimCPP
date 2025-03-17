@@ -7,28 +7,69 @@
 #include "Intersection.h"
 #include "RandomGen.h"
 
+#pragma once
+#include <map>
+#include <string>
+#include <fstream>
+#include <vector>
+#include "Intersection.h"
+#include "RandomGen.h"
+
 class TrafficSim {
 public:
     TrafficSim();
     ~TrafficSim();
 
-    // Reads config, sets up intersections, etc.
-    bool initialize(const std::string& configPath);
-
-    // Runs the simulation for a specified number of steps
+    bool initialize(const std::string &configPath);
     void runSimulation();
 
 private:
-    // Helper to load config from file
-    bool loadConfig(const std::string& path);
-
-    // Helper to log messages
+    bool loadConfig(const std::string &path);
     void logMessage(const std::string& message);
 
-    // Spawns random vehicles and assigns them to intersections
+    // Existing
     void spawnVehicles();
 
-private:
+    // -----------------------------------------------------------
+    // 1) ADD THESE STRUCTS AND NEW METHODS
+    // -----------------------------------------------------------
+
+    // Info about a single intersection at a particular simulation step
+    struct IntersectionRecord
+    {
+        int id;
+        bool isGreen;
+        int waitingCount;
+        int passedThisStep;
+        int totalThroughput;
+    };
+
+    // Info about vehicles that spawned at a particular step
+    struct SpawnRecord
+    {
+        int stepNumber;
+        int vehicleId;
+        std::string vehicleType; // e.g. "Car" or "Truck"
+        int intersectionAssigned;
+    };
+
+    // One "snapshot" of the simulation after a single step
+    struct StepRecord
+    {
+        int stepNumber;
+        std::vector<IntersectionRecord> intersectionStates;
+        std::vector<SpawnRecord> spawnedVehicles;
+    };
+
+    // Keep a record for each step of the simulation
+    std::vector<StepRecord> m_simHistory;
+
+    // Called internally each step to record data
+    void recordStepData();
+
+    // Called at end of simulation to generate final report
+    void generateReport(const std::string &filename);
+
     std::map<int, Intersection> m_intersections;
     int m_numIntersections;
     int m_vehiclesPerStep;
